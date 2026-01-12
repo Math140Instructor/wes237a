@@ -1,4 +1,6 @@
-# WES 237-A
+# WES 237A - Introduction to Embedded System Design
+
+This repository contains all lab assignments and corresponding PDF outputs for the WES 237A class.
 
 ## Bio
 
