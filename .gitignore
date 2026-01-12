@@ -5,7 +5,7 @@ Lab1/*
 # Re-allow Jupyter notebooks inside Lab1
 !Lab1/**/*.ipynb
 !Lab1/**/*.pdf
-
+!Lab1/**/*.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
