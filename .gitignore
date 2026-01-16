@@ -1,11 +1,17 @@
 # Ignore everything inside Lab1
-Lab1/*
+Lab*/*
+Assignment*/*
 # Re-allow directories under Lab1 (so Git can recurse)
-!Lab1/*/
+!Lab*/*/
+!Assignment*/*
 # Re-allow Jupyter notebooks inside Lab1
-!Lab1/**/*.ipynb
-!Lab1/**/*.pdf
-!Lab1/**/*.md
+!Lab*/**/*.ipynb
+!Lab*/**/*.pdf
+!Lab*/**/*.md
+
+!Assignment*/**/*.ipynb
+!Assignment*/**/*.pdf
+!Assignment*/**/*.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
