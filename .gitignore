@@ -1,10 +1,3 @@
-# Ignore everything inside Lab1
-#Lab*/*
-#Assignment*/*
-# Re-allow directories under Lab1 (so Git can recurse)
-#!Lab*/*/
-#!Assignment*/*
-# Re-allow Jupyter notebooks inside Lab1
 !Lab*/**/*.ipynb
 !Lab*/**/*.pdf
 !Lab*/**/*.md
@@ -14,3 +7,5 @@
 !Assignment*/**/*.md
 
 **/*.xclbin
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
