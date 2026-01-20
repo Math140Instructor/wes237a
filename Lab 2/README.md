@@ -8,8 +8,8 @@ Each notebook (`.ipynb`) contains the source code and explanations, while the PD
 
 ## Shared C++ Library
 
-- **Code:** [Shared C++ Library](./sharedlib.ipynb)  
-- **Output:** [Shared C++ Library](./sharedlib.pdf)
+- **Code:** [Shared C++ Library.ipynb](./sharedlib.ipynb)  
+- **Output:** [Shared C++ Library.pdf](./sharedlib.pdf)
 
 ---
 
