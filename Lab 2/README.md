@@ -4,6 +4,10 @@ This directory contains the Lab 2 Jupyter notebooks and their corresponding rend
 
 Each notebook (`.ipynb`) contains the source code and explanations, while the PDF provides a static, graded friendly version of the executed results.
 
+## Lab Report
+
+- **Output:** [Lab2.pdf](./lab2out.pdf)
+  
 ---
 
 ## Shared C++ Library
