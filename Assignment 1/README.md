@@ -13,11 +13,13 @@ Each notebook (`.ipynb`) contains the source code and explanations, while the PD
 
 ## Demo Video
 - **Video:** [assignment1.mp4](./assignment1.mp4)
+- **Google Drive**: [assignment1.mp4 google drive](https://drive.google.com/file/d/1MWceWzfCScrLZABfqpiE2Sl6nDO9ADcz/view?usp=sharing)
 
 <video controls preload="metadata" width="800">
   <source src="./assignment1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 ---
 
 ### Notes
