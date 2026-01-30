@@ -10,8 +10,9 @@ My name is Gabriel Martinez, a Software Engineer at NIWC Pacific focused on rese
 
 Each weekly assignment includes the source Jupyter notebook used to develop the solution and a corresponding PDF export that captures the executed results for review and grading.
 
-- **Week 1:** [Lab #1 Report and Reflections](./Lab1/)
-- **Week 2:** *To be added*  
-- **Week 3:** *To be added*  
+[Lab #1 Report and Reflections](./Lab1/)
+[Lab #2 Report and Reflections](./Lab2/)
+[Assignment #1](./Assignment1/)
+[Assignment #2](./Assignment2/)
 
 Additional weeks will be added as the course progresses.
