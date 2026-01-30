@@ -13,6 +13,8 @@ Each notebook (`.ipynb`) contains the source code and explanations, while the PD
 
 ## Demo Video
 - **Video:** [assignment2.mp4](./Fixed.mp4)
+  - 'Fixed' video refers to a predefined duration for the eat, nap, starve methods for each thread.
+  - 'Random' video referes to a randomly generate duration for the eat, nap, starve methods for each thread.
 - **Google Drive**: [assignment2.mp4 google drive](https://drive.google.com/file/d/14PA2w2cQb2Nz_hgjWunpU0YCFmucd--d/view?usp=sharing)
 
 <video controls preload="metadata" width="800">
