@@ -9,3 +9,13 @@
 **/*.xclbin
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
+
+# Kernel module build artifacts
+*.o
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+*.cmd
+Module.symvers
+modules.order
