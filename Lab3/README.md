@@ -1,4 +1,4 @@
-# Lab 2
+# Lab 3
 
 This directory contains the Lab 3 Jupyter notebooks and their corresponding rendered PDF outputs.
 
