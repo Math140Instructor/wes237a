@@ -12,8 +12,7 @@ Each notebook (`.ipynb`) contains the source code and explanations, while the PD
 - **Output:** [assignment3.pdf](./hw3.pdf)
 
 ## Demo Video
-- **Video:** N/A
-- **Google Drive**: N/A
+- **Google Drive**:[assignment3 demo video](https://drive.google.com/file/d/1y4k1f6qv4XoNAoFhVpsSQJzclRbUWlWv/view?usp=sharing)
 
 ---
 
