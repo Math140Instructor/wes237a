@@ -14,7 +14,7 @@ Each weekly assignment includes the source Jupyter notebook used to develop the 
 |------|-------------|
 | [Lab #1 Report and Reflections](./Lab1/) | [Assignment #1](./Assignment1/) |
 | [Lab #2 Report and Reflections](./Lab2/) | [Assignment #2](./Assignment2/) |
-| [Lab #3 Report and Reflections](./Lab3/) |
+| [Lab #3 Report and Reflections](./Lab3/) | [Assignment #3](./Assignment3/) |
 
 
 Additional weeks will be added as the course progresses.
