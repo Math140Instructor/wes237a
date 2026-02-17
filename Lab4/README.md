@@ -1,6 +1,6 @@
 # Lab 4
 
-This directory contains the Lab 3 Jupyter notebooks and their corresponding rendered PDF outputs.
+This directory contains the Jupyter notebooks and their corresponding rendered PDF outputs.
 
 Each notebook (`.ipynb`) contains the source code and explanations, while the PDF provides a static, graded friendly version of the executed results.
 
