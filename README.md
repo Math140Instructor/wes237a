@@ -15,7 +15,7 @@ Each weekly assignment includes the source Jupyter notebook used to develop the 
 | [Lab #1](./Lab1/) | [Assignment #1](./Assignment1/) |
 | [Lab #2](./Lab2/) | [Assignment #2](./Assignment2/) |
 | [Lab #3](./Lab3/) | [Assignment #3](./Assignment3/) |
-| [Lab #4](./Lab4/) | [Assignment #4 upcoming...](./Assignment4/) |
+| [Lab #4](./Lab4/) | [Assignment #4](./Assignment4/) |
 
 
 Additional weeks will be added as the course progresses.
