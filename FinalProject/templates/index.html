@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title>USB Camera Stream</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+        <script src="{{ url_for('static', filename='stats.js') }}"></script>
+    </head>
+    <body>
+        <h1>WES 267 Final Project</h1>
+        <p>Object Detection using Haar feature-based cascade classifiers is an effective method proposed by Paul Viola and Michael Jones in the 2001 paper, "Rapid Object Detection using a Boosted Cascade of Simple Features". It is a machine learning based approach in which a cascade function is trained from a lot of positive and negative images. It is then used to detect objects in other images.</p>
+        <div class="container">
+            <div class="video-section">
+                <h2>Video Stream</h2>
+                <img src="/video" width="640">
+            </div>
+            <div class="status-section">
+                <h2>Stats</h2>
+                <p><b>Filter Status:</b> <span id="filter_status">{{ filter_status }}</span></p>
+                <p><b>Mode:</b> <span id="mode">{{ mode }}</span></p>
+                <p><b>Face Detected:</b> <span id="face_detected">{{ face_detected }}</span></p>
+                <p><b>Left Eye Detected:</b> <span id="left_eye_detected">{{ left_eye_detected }}</span></p>
+                <p><b>Right Eye Detected:</b> <span id="right_eye_detected">{{ right_eye_detected }}</span></p>
+                <p><b>Width:</b> <span id="width">{{ width }}</span></p>
+                <p><b>Height:</b> <span id="height">{{ height }}</span></p>
+                <p><b>FPS:</b> <span id="fps">{{ fps }}</span></p>
+                <p><b>Buffer Size:</b> <span id="buffersize">{{ buffersize }}</span></p>
+                <p><b>FOURCC:</b> <span id="fourcc">{{ fourcc }}</span></p>
+                <p>"four character code" - an identifier for a video codec, compression format, color or pixel format used in media files.</p>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 30px;
+}
+
+.video-section {
+    display: flex;
+    flex-direction: column;
+}
+
+.status-section {
+    display: flex;
+    flex-direction: column;
+    min-width: 220px;
+}
+
+.status-section p {
+    margin: 8px 0;
+}
